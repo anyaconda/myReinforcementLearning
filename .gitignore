@@ -1,0 +1,21 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.venv
+*/.ipynb_checkpoints
+*/*/.ipynb_checkpoints
+
+# Custom
+*draft.ipynb
+#my*.ipynb
+myData
+*/myData
+myModels
+*/myModels
+myTemp
+*/myTemp
+myVis
+*/myVis
+
+.DS_Store
